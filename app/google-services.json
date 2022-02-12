@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301224271489",
+    "project_id": "blogapp-cb767",
+    "storage_bucket": "blogapp-cb767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301224271489:android:737ecc8c541aaa9f453780",
+        "android_client_info": {
+          "package_name": "com.papeliyodev.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301224271489-gsaqdd6gr0d5doe6jknrbrbdvp7h88qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofPorcwdKtNQhTnqJ_6Awx36moVTgOiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301224271489-gsaqdd6gr0d5doe6jknrbrbdvp7h88qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
